@@ -1,16 +1,92 @@
-# React + Vite
+# Panvitha Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern aesthetic developer portfolio built using React and Vite with elegant UI, smooth animations, responsive layouts, and interactive sections.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://your-vercel-link.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Elegant responsive UI
+- Animated preloader
+- Custom cursor
+- Floating particles background
+- Modern navbar navigation
+- Education timeline
+- Certifications section
+- Coding profiles section
+- Featured projects showcase
+- Social media integration
+- Resume viewer
+- Responsive design for all devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- Vite
+- JavaScript
+- CSS
+
+### Deployment
+- Vercel
+
+---
+
+## Sections
+
+- Home
+- Education
+- Training & Programs
+- Projects
+- Certifications
+- Contact
+
+---
+
+## Projects Included
+
+### The Gifting Co.
+AI-powered gift recommendation platform that generates personalized gift suggestions based on interests, occasion, personality, and budget.
+
+### StyleSelf AI
+AI fashion styling web application that generates outfits and personalized styling recommendations.
+
+### Asko AI
+Full-stack conversational AI application using Groq API and MongoDB Atlas.
+
+### Personal Portfolio
+Modern animated portfolio showcasing projects, certifications, coding profiles, and academic journey.
+
+---
+
+## Coding Profiles
+
+- GitHub
+- LeetCode
+- CodeChef
+- Codeforces
+
+---
+
+## Certifications
+
+- Crash Course on Python — Google × Coursera
+- Generative AI: Prompt Engineering Basics — IBM × Coursera
+- Java Programming for Beginners — IBM × Coursera
+- Fundamentals of Java Programming — Board Infinity × Coursera
+- Object Oriented Programming Through Java — CodeChef
+- Data Structures — CodeChef
+- Open Learning JNCIA-Junos — Juniper Networks
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/panvithachowdary/my-portfolio.git
