@@ -4,8 +4,7 @@ A modern aesthetic developer portfolio built using React and Vite with elegant U
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
-
+https://my-panvitha-portfolio.vercel.app/
 ---
 
 ## Features
