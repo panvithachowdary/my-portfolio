@@ -86,7 +86,6 @@ Modern animated portfolio showcasing projects, certifications, coding profiles, 
 
 ---
 
-## Installation
+## Author
 
-```bash
-git clone https://github.com/panvithachowdary/my-portfolio.git
+PANVITHA CHOWDARY MURAKONDA
