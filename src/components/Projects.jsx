@@ -1,16 +1,15 @@
 const projects = [
   {
-    title: "Panvitha Portfolio",
-    desc: "developer portfolio built using React and Vite with modern UI, custom cursor, floral aesthetics, smooth transitions, responsive layouts, and interactive sections.",
+    title: "AlgoVision",
+    desc: "Interactive DSA visualizer that demonstrates sorting and searching algorithms through real-time animations, helping users understand algorithm behavior, complexity, and execution flow with an intuitive user interface.",
     tech: [
-      "React",
-      "Vite",
-      "CSS",
-      "JavaScript",
-      "Vercel",
-    ],
-    github: "https://github.com/panvithachowdary",
-    live: "#",
+    "React",
+    "JavaScript",
+    "CSS",
+    "Vite"
+  ],
+  github: "https://github.com/panvithachowdary",
+  live: "https://dsa-visualizer-zeta-two.vercel.app/"
   },
 
   {
@@ -23,7 +22,7 @@ const projects = [
       "Vercel",
     ],
     github: "https://github.com/panvithachowdary",
-    live: "https://the-gifting-co.vercel.app",
+    live: "https://gifting-co-mu.vercel.app/",
   },
 
   {
